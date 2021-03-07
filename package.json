@@ -1,10 +1,11 @@
 {
-  "name": "WebRTC-Geolocation-APIs",
+  "name": "webrtc-geolocation-apis",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon ./server.js"
   },
   "repository": {
     "type": "git",
@@ -12,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/raulgp19/WebRTC-Geolocation-APIs/issues"
   },
